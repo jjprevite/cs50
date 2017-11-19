@@ -1,4 +1,18 @@
-# Week 1 - Notes
+# Week 1 - 
+
+## PSet1
+- [X] Watch Week 1's lecture
+- [ ] Say hello to the world with hello.c.
+- [ ] Calculate your water consumption with water.c.
+- [ ] Recreate one of Mario’s pyramids, in mario.c.
+- [ ] Provide a user with either cash or credit in greedy.c or credit.c.
+- [ ] Submit your code.
+- [ ] Submit a form.
+
+## Notes
+
+#### November 19th, 2017 
+- started working on [Problem Set 1](https://docs.cs50.net/2017/x/psets/1/pset1.html)
 
 #### November 18th, 2017
 - watched Week 1 lecture from minute 56 and on. Learned about numbers - integers, decimals, floats, etc. 
