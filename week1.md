@@ -11,6 +11,9 @@
 
 ## Notes
 
+#### November 20th, 2017
+- worked on mario's pyramid again. Got a lot [closer](https://imgur.com/a/cI9w6)! 
+
 #### November 19th, 2017 
 - started working on [Problem Set 1](https://docs.cs50.net/2017/x/psets/1/pset1.html)
 - set up [cs50.io](https://cs50.io/)
